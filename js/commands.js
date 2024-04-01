@@ -85,29 +85,29 @@ banner = [
 ];
 
 gamer_data = [
-"<br>"
-"GamerMikeFun...
-...
-...
-...
-...
-Getting Operations status
-...
-...
-...
-...
-Latest Operation Completed
-...
-Operation Aerial Ace
-...
-...
-...
-Remaining Operations
-...
-Operation Air Support
-...
-And
-...
-Operation Air Superiority
+"<br>",
+"GamerMikeFun...",
+"...",
+"...",
+"...",
+"...",
+"Getting Operations status",
+"...",
+"...",
+"...",
+"...",
+"Latest Operation Completed",
+"...",
+"Operation Aerial Ace",
+"...",
+"...",
+"...",
+"Remaining Operations",
+"...",
+"Operation Air Support",
+"...",
+"And",
+"...",
+"Operation Air Superiority",
 "<br>"
 ];
