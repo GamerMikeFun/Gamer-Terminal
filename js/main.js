@@ -88,6 +88,9 @@ function commander(cmd) {
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
       break;
+    case "gamer_data":
+      loopLines(gamer_data, "color2 margin", 80);
+      break;
     case "video":
       addLine("Opening YouTube...", "color2", 80);
       newTab(youtube);
