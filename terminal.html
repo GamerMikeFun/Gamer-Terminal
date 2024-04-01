@@ -15,6 +15,16 @@
     }, {
         greetings: 'My First Web Terminal'
     });
+
+    $('body').terminal({
+        sup: function(what) {
+            this.echo('Sup, ' + what +
+                      '. Wellcome to this terminal.');
+        }
+    }, {
+        greetings: 'My First Web Terminal'
+    });
+
     </script>
     </body>
     </html>
