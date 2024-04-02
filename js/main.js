@@ -89,7 +89,7 @@ function commander(cmd) {
       loopLines(whoami, "color2 margin", 80);
       break;
     case "gamer_data_gamermikefun":
-      loopLines(gamer_data, "color2 margin", 80);
+      loopLines(gamer_data_gamermikefun, "color2 margin", 80);
       break;
     case "nuke_launch":
       loopLines(nuke_launch, "color2 margin", 80);
