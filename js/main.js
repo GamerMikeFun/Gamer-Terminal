@@ -88,8 +88,14 @@ function commander(cmd) {
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
       break;
-    case "gamer_data":
+    case "gamer_data_gamermikefun":
       loopLines(gamer_data, "color2 margin", 80);
+      break;
+    case "nuke_launch":
+      loopLines(nuke_launch, "color2 margin", 80);
+      break;
+    case "nuke_launch_code_203948752":
+      loopLines(nuke_launch_code_203948752, "color2 margin", 80);
       break;
     case "video":
       addLine("Opening YouTube...", "color2", 80);
