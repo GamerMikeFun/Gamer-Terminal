@@ -96,6 +96,13 @@ gamer_data_gamermikefun = [
 ];
 
 nuke_launch = [
-
-
+  "<br>",
+  '<span class="command">nuke_launch_code_203948752</span>           Only use if you\'re admin',
+  "<br>"
 ];
+
+nuke_launch_code_203948752 = [
+  "<br>",
+  "14 Gigaton Nuclear Atomizer (circa 1969) Launched at ******, ******",
+  "<br>"
+]
