@@ -92,7 +92,7 @@ function commander(cmd) {
       loopLines(gamer_data_gamermikefun, "color2 margin", 80);
       break;
     case "nuke_launch":
-      addLine("Oh no, you're not admin...", "color2", 80);
+      addLine("Admin Not Detected", "color2", 80);
       setTimeout(function() {
         window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
       }, 1000); 
